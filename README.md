@@ -65,18 +65,17 @@ The application uses Streamlit to host the Blockchain application
 
 1. Run Streamlit run fintech_finder.py in terminal and browse the Website.
 2. Select A Person
-    1. Add Sender + Press Enter
-    2. Add Receiver + Press Enter
-    3. Add Amount + Press Enter
-    4. Click Add Block Button
-2. Select the Number of Hours you'd like the person to work. (Be mindful of cost and available funds.)
-3. Send the transaction.
+3. Select the Number of Hours you'd like the person to work. (Be mindful of cost and available funds.)
+4. Send the transaction.
 
 
-**A display of the Sharpe Ratio Chart is listed below**
+**A display of the Images from Streamlit and Ganache are listed below**
 
-![BC](https://github.com/TracyMichael/Module-Challenge-18/blob/main/Images/Streamlit%20Blockchain%20and%20Validation.png)
+![BC](https://github.com/TracyMichael/Module-Challenge-19/blob/main/Code/Images/Streamlit.png)
 
+![CD](https://github.com/TracyMichael/Module-Challenge-19/blob/main/Code/Images/Ganache_1.png)
+
+![DE](https://github.com/TracyMichael/Module-Challenge-19/blob/main/Code/Images/Ganache_2.png)
 
 ---
 
